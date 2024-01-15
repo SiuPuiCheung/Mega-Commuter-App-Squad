@@ -1,7 +1,7 @@
 # Mega Commuter App Squad - Scrum Project
 
 ## Overview
-This repository contains the project files for the Mega Commuter App Squad, an imaginary team for app development. The team is dedicated to developing commuter solutions using a Scrum methodology. This document outlines our team values, ceremonies, communication norms, and project details.
+This repository contains the PDF file for the capstone project completed as part of the IBM IT Scum Master Certificate. The project demonstrates the development of commuter solutions using a Scrum methodology. This document outlines our team values, ceremonies, and project details.
 
 ## Team Values
 1. Commitment to Quality
